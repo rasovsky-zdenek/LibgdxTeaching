@@ -1,4 +1,6 @@
 # LibgdxTeaching
 Projekt vznikl jako bakalářská práce "Výuka programování s využitím nástroje  LibGDX"
 
-Hlavním cílem je vytvoření materiálu, který podpoří výuku základů programování, OOP a umožní studentům získat první zkušenosti s vývojem 2D herních aplikací. V teoretické části bude   popsáno prostředí  LibGDX. Objasní výhody a nevýhody frameworku.  Popíše možné alternativy pro tvorbu 2D aplikací a objasní jednotlivé moduly frameworku. V praktické části budou vytvořeny návody pro učitele a studenty. Nejprve bude popsána instalace a integrace frameworku. Dále budou probrány základy programování (proměnné, řídící a datové struktury) a následně základy OOP (třídy, dědičnost, abstraktní třídy a rozhraní). Výsledkem budou po-stupy, které povedou k vytvoření menších her, na kterých si student vyzkouší svoje znalosti. Návody budou zveřejněny na YouTube.
+Projekt obsahuje zdrojové soubory, které jsou uvedeny v bakalářské práci. Zdrojové soubory je možné stáhnout pro různá IDE. 
+Pro BlueJ 4.2.0, Netbeans 8.2 a IntelliJ 2019.1 jsou k dispozici projekty pro desktopovou verzi. Gradle verze připravena pro IntelliJ 2019.1, které je plně podporováno ze strany LibGDX.   
+
