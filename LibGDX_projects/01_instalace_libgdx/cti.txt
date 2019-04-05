@@ -1,0 +1,1 @@
+Soubor bat slouí pro otestování nastavení JDK. Soubor staèí spustit.
