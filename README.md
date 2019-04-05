@@ -1,4 +1,4 @@
-# LibgdxTeaching
+# LibGDXTeaching
 Projekt vznikl jako bakalářská práce "Výuka programování s využitím nástroje  LibGDX"
 
 Projekt obsahuje zdrojové soubory, které jsou uvedeny v bakalářské práci. Zdrojové soubory je možné stáhnout pro různá IDE. 
