@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="cz.agstepanska">
+    <module_version install_time="1554331695141" last="true" origin="installer" specification_version="1.0">
+        <file crc="3482362553" name="config/Modules/cz-agstepanska.xml"/>
+        <file crc="3383991320" name="modules/cz-agstepanska.jar"/>
+    </module_version>
+</module>
