@@ -1,9 +1,0 @@
-nastaveni template pro otevreni projektu NetBeans
-https://platform.netbeans.org/tutorials/nbm-projectsamples.html
-
-integrace jar knihoven do vysledneho souboru jar (uprava souboru build.xml - NetBeans)
-https://stackoverflow.com/questions/18451052/how-to-include-jars-in-lib-into-project-jar-file-in-netbeans
-
-template IntelliJ
-
-integrace knihoven do vysledneho souboru IntelliJ
