@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DesktopStart
+comment0.text=\r\n\r\n\ @author\ Rasovsky\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Startovaci\ metoda\r\n\ vytvori\ se\ objekt\ game\ a\ ten\ je\ predan\ backendu,\ ktery\ bude\ volat\ prislusne\ metody\ v\ tride\ MyGame.\r\n\ @param\ args\ the\ command\ line\ arguments\r\n
+numComments=2
